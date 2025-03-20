@@ -2,10 +2,12 @@
 
 [Discord](https://discord.gg/FA8R7APZWR) | [X/Twitter](https://x.com/nooparmy) | [our website](https://nooparmygames.com) | [Video describing our approach making this package to make it fast](https://youtu.be/DBipAG-vcjQ)
 
-This ssmall software can convert PBR textures stored in roughness, metallic and ambient occlusion textures to ORM textures for Unity and Unreal Engine.
+This small software can convert PBR textures stored in roughness, metallic and ambient occlusion textures to ORM textures for Unity and Unreal Engine.
 It can also create smoothness textures from roughness by inverting the texture and store it as the alpha of the metallic texture for Unity's default shaders.
 
 Optionally it can delete the roughness, metallic and AO textures it used for ORM creation.
+
+This fork enables the input of ORM textures directly for conversion.
 
 # How To Use
 
